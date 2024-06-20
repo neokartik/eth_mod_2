@@ -109,7 +109,7 @@ export default function HomePage() {
   return (
     <main className="container">
       <header>
-        <h1>Welcome to BlockChain ATM</h1>
+        <h1>Welcome to Kartik ATM</h1>
         <p>A secure and decentralized banking experience</p>
       </header>
       {initUser()}
